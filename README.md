@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm semih</h1>
 <h3 align="center">A passionate Fullstack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **java ,python,**
+- 🌱 I’m currently learning **javascript ,.net MAUI,**
 
 - 📫 How to reach me **semihtugtekins@gmail.com**
 
